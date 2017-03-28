@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>2.4.2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>switch中的break语句.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>switch语句.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>switch语句中定义新变量.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>switch语句的简写方式.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>C0FD1D991E82593400261EAE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C0FD1DA71E82594800261EAE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C0FD1DB21E82596D00261EAE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C0FD1DBD1E8259B500261EAE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C0FD1DC81E8259EB00261EAE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
